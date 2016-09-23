@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Hi
 width: 200px;
 height 100px;
+=======
+
+name: Dimitar Dimirov Ivanov
+maill:mukonline1987@gmail.com
+
+
+
+
+>>>>>>> 54c5f2e0e706c09f3c8d722648a29b3de8942b36
